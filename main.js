@@ -1,1 +1,1 @@
-const two = () => {}
+const free = () => {};
