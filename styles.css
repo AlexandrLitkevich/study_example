@@ -22,3 +22,11 @@
     z-index: -1;
     background-color: #f2f2f2;
 }
+
+.decorations2 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-color: #f2f2f2;
+}
