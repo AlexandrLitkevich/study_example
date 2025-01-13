@@ -1,1 +1,1 @@
-const one = () => {}
+const two = () => {}
